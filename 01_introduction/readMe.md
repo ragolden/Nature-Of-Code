@@ -6,3 +6,5 @@ This section of our repository covers areas including randomness, probablilty an
 1. [Random Walker with 4 outcomes](01_Random Walker with 4 outcomes/readMe.md)
 2. Random Walker with 9 outcomes
 3. Proof of Uniform Distribution
+
+[Random Walker with 4 outcomes](01_Random Walker with 4 outcomes/readMe.md)
