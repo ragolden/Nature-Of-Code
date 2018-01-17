@@ -3,8 +3,7 @@
 This section of our repository covers areas including randomness, probablilty and Perlin Noise
 
 ## Sections to be covered
-1. [Random Walker with 4 outcomes](01_Random Walker with 4 outcomes/readMe.md)
+1. Random Walker with 4 outcomes
 2. Random Walker with 9 outcomes
 3. Proof of Uniform Distribution
 
-[Random Walker with 4 outcomes](01_introduction/01_Random Walker with 4 outcomes/readMe.md)
