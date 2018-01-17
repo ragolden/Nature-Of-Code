@@ -8,4 +8,3 @@ This wil be our online repository of all the files we create from the book.
 3. Forces
 4. Particle Systems
 
-[Introduction - Randomness, Perlin Noise, Probability](http://www.google.com)
