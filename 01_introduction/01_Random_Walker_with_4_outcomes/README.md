@@ -1,5 +1,6 @@
 # Random Walker with 4 Outcomes
 
+[See the Code in action](code.html)
 
 In this file we create a Walker class which creates walker objects. Each time the step function is called on this object it selects a random number and based on that it produces an outcomes. We also constrain the x and y value using the built in constrain() function.
 
